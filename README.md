@@ -19,5 +19,5 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 
 
 ### EASY  
-- [5-stars reviews problem](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/EASY/5-stars%20reviews%20problem.py)
+- [5-stars reviews problem](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/EASY/5-stars%20reviews%20problem.py) T(n) = O(1)
 
