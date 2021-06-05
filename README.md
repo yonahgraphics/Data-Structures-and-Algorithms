@@ -1,13 +1,13 @@
 ## Algorithms (CODING CHALLENGES ASKED BY POPULAR COMPANIES)
 
  <div id="banner">
-<!--     <div class="inline-block"> 
+    <div class="inline-block"> 
         <img src = "https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" width="100" height="100">
-    </div> -->
-
-    <div class="inline-block">
-        <img src = "https://lh3.googleusercontent.com/proxy/osOyV5NIIdEwGzs7u-M5n_1l5Z3eCD5jPeQuArvqX5Q-feigPz0mPwYO2rui0fUp72GH0kHIdlFw2237M8rqyCceACChm_JFvs-tsPrwmt3_1-p1G6YBnZGizMn4585Z7aVjj6B7dg" width="100" height="100">
     </div>
+ <div class="inline-block"> 
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" width="100" height="100">
+    </div>
+
 </div>
 
 Solving coding problems everyday keeps your mind sharp, makes you a great thinker and keeps you healthy :satisfied: :satisfied: :satisfied: <p>
