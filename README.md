@@ -1,9 +1,18 @@
 ## Algorithms (CODING CHALLENGES ASKED BY POPULAR COMPANIES)
 
-<img src = "https://i.pinimg.com/736x/ad/4a/67/ad4a67a25bc3732713de694a782d441b.jpg" width="100" height="100">
+ <div id="banner">
+    <div class="inline-block"> 
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" width="100" height="100">
+    </div>
 
-<img src = "https://lh3.googleusercontent.com/proxy/osOyV5NIIdEwGzs7u-M5n_1l5Z3eCD5jPeQuArvqX5Q-feigPz0mPwYO2rui0fUp72GH0kHIdlFw2237M8rqyCceACChm_JFvs-tsPrwmt3_1-p1G6YBnZGizMn4585Z7aVjj6B7dg" width="100" height="100">
+    <div class="inline-block">
+        <img src = "https://lh3.googleusercontent.com/proxy/osOyV5NIIdEwGzs7u-M5n_1l5Z3eCD5jPeQuArvqX5Q-feigPz0mPwYO2rui0fUp72GH0kHIdlFw2237M8rqyCceACChm_JFvs-tsPrwmt3_1-p1G6YBnZGizMn4585Z7aVjj6B7dg" width="100" height="100">
+    </div>
 
+    <div class="inline-block">
+        <img src ="img3.jpg">
+    </div>
+</div>
 
 Solving coding problems everyday keeps your mind sharp, makes you a great thinker and keeps you healthy :satisfied: :satisfied: :satisfied: <p>
 In this repository you will find solutions to pupular coding problems asked by bitch tech companies. I try to make the code as clear as possible, and the goal is be to used as a learning resource and a way to lookup problems to solve specific problems. 
