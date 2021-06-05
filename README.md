@@ -1,8 +1,8 @@
 ## Algorithms (CODING CHALLENGES ASKED BY POPULAR COMPANIES)
 
-Solving coding problems everyday keeps your mind sharp, makes you a great thinker and keeps you healthy :satisfied: :satisfied: :satisfied: <br>
+Solving coding problems everyday keeps your mind sharp, makes you a great thinker and keeps you healthy :satisfied: :satisfied: :satisfied: <p>
 In this repository you will find solutions to pupular coding problems asked by bitch tech companies. I try to make the code as clear as possible, and the goal is be to used as a learning resource and a way to lookup problems to solve specific problems. 
-If you got any questions or suggestions for future videos I prefer if you ask it on YouTube. This repository is contribution friendly, so if you feel you want to add something then I'd happy to merge :blush:
+If have any questions or suggestions, please don't be afraid to ask. This repository is contribution friendly, so if you feel you want to contribute I'd happy to merge :blush::blush::blush:
 
 
 
