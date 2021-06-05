@@ -27,6 +27,11 @@ def min_reviews(num_review, num_5star_reviews, target_percentage):
         count += 1
     return count
 
+# -----------------------------------------------------------------
+# Complexity:
+# Since we are just doing arithmetic operation, this takes
+# T(n) = O(n), where n = minimum number of required 5-star reviews
+# ------------------------------------------------------------------
 
 # Sample input:
 # num_5star_reviews = 10
@@ -61,5 +66,10 @@ def min_reviews_better(b, a, c):
     x = (c * b - 100 * a) / (100 - c)
     return math.ceil(x)
 
+# -------------------------------------------------------
+# Complexity:
+# Since we are just doing arithmetic operation, this takes
+# T(n) = O(1)
+# --------------------------------------------------------
 # Sample call to function
 print(min_reviews_better(16, 10, 72))
