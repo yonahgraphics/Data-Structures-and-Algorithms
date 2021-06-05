@@ -9,9 +9,11 @@
         <img src = "https://www.googlewatchblog.de/wp-content/uploads/google-logo-perfekt.jpg" width="100" height="100">
     </div>
 </div>
+ 
+ <p>
 
 Solving coding problems everyday keeps your mind sharp, makes you a great thinker and keeps you healthy :satisfied: :satisfied: :satisfied: <p>
-In this repository you will find solutions to pupular coding problems asked by bitch tech companies. I try to make the code as clear as possible, and the goal is be to used as a learning resource and a way to lookup problems to solve specific problems. 
+In this repository you will find solutions to pupular coding problems asked by big tech companies like Facebook, Amazon Apple Netflix, Google Microsoft etc. I try to make the code as clear as possible, and the goal is be to used as a learning resource and a way to lookup problems to solve specific problems. 
 If have any questions or suggestions, please don't be afraid to ask. This repository is contribution friendly, so if you feel you want to contribute I'd happy to merge :blush::blush::blush:
 
 
