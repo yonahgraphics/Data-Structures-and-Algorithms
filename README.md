@@ -4,9 +4,9 @@
     <div class="inline-block"> 
         <img src = "https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" width="100" height="100">
         <img src = "https://lh3.googleusercontent.com/proxy/osOyV5NIIdEwGzs7u-M5n_1l5Z3eCD5jPeQuArvqX5Q-feigPz0mPwYO2rui0fUp72GH0kHIdlFw2237M8rqyCceACChm_JFvs-tsPrwmt3_1-p1G6YBnZGizMn4585Z7aVjj6B7dg" width="100" height="100">
+        <img src = "https://thebait.no/wp-content/uploads/2020/11/apple-logo-mac-pro-2019.jpg" width="100" height="100">
         <img src = "https://www.pngarea.com/pngm/122/1256954_netflix-logo-png-netflix-sticker-transparent-png.png" width="100" height="100">
-     <img src = "https://www.googlewatchblog.de/wp-content/uploads/google-logo-perfekt.jpg" width="100" height="100">
-     <img src = "https://studio.cults3d.com/yXo8l8_rQbrzefBfE2p_YSvxYHI=/516x516/https://files.cults3d.com/uploaders/15110355/illustration-file/2bb91600-1971-4ebc-85c5-b828fe27906a/1caa032c47f63d50902b9d34492e1303.jpg" width="100" height="100">
+        <img src = "https://www.googlewatchblog.de/wp-content/uploads/google-logo-perfekt.jpg" width="100" height="100">
     </div>
 </div>
 
