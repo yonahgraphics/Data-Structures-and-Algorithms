@@ -1,5 +1,7 @@
 ## Algorithms (CODING CHALLENGES ASKED BY POPULAR COMPANIES)
 
+<img src = "https://i.pinimg.com/736x/ad/4a/67/ad4a67a25bc3732713de694a782d441b.jpg" width="100" height="100">
+
 <img src = "https://lh3.googleusercontent.com/proxy/osOyV5NIIdEwGzs7u-M5n_1l5Z3eCD5jPeQuArvqX5Q-feigPz0mPwYO2rui0fUp72GH0kHIdlFw2237M8rqyCceACChm_JFvs-tsPrwmt3_1-p1G6YBnZGizMn4585Z7aVjj6B7dg" width="100" height="100">
 
 
