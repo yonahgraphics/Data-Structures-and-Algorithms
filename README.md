@@ -3,6 +3,7 @@
  <div id="banner">
     <div class="inline-block"> 
         <img src = "https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" width="100" height="100">
+     <img src = "https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" width="100" height="100">
     </div>
  <div class="inline-block"> 
         <img src = "https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" width="100" height="100">
