@@ -1,4 +1,4 @@
-# Algorithms (CODING CHALLENGES ASKED BY POPULAR COMPANIES)
+## Algorithms (CODING CHALLENGES ASKED BY POPULAR COMPANIES)
 
 Solving coding problems everyday keeps your mind sharp, makes you a great thinker and keeps you healthy
 In this repository you will find solutions to pupular coding problems asked by bitch tech companies. I try to make the code as clear as possible, and the goal is be to used as a learning resource and a way to lookup problems to solve specific problems. 
@@ -6,20 +6,6 @@ If you got any questions or suggestions for future videos I prefer if you ask it
 
 
 
-## Animation Package
+### EASY  
+- [5-stars reviews problem](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/EASY/5-stars%20reviews%20problem.py)
 
-- [5-stars reviews problem](https://pub.dev/packages/simple_animations)
-
-Machine Learning Collection
-
-Table Of Contents
-Machine Learning Algorithms
-PyTorch Tutorials
-Basics
-More Advanced
-Object Detection
-Generative Adversarial Networks
-Architectures
-TensorFlow Tutorials
-Beginner Tutorials
-Architectures
