@@ -1,4 +1,4 @@
-## Algorithms (CODING CHALLENGES ASKED BY POPULAR COMPANIES)
+# Algorithms (CODING CHALLENGES ASKED BY POPULAR COMPANIES)
 
  <div id="banner">
     <div class="inline-block"> 
