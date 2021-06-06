@@ -11,7 +11,7 @@
 # num_5star_reviews <= num_review
 # 0 <= target <= 100
 
-# --------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------
 
 # APPROACH 1: ITERATIVE METHOD
 # This approach will only help you understand the problem. It is not efficient,
