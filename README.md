@@ -1,4 +1,5 @@
-## Algorithms (CODING CHALLENGES ASKED BY POPULAR COMPANIES)
+# Algorithms
+## (CODING CHALLENGES ASKED BY POPULAR COMPANIES)
 
  <div id="banner">
     <div class="inline-block"> 
@@ -18,6 +19,9 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 
 
 
-### EASY  
-- [5-stars reviews problem](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/EASY/5-stars%20reviews%20problem.py) -------<b> T(n) = O(1)<b>
+## EASY
+ ### 5-stars reviews problem  -------<b> T(n) = O(1)<b>
+- [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/5-stars%20reviews%20problem.py)
+- [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/5-stars%20reviews%20problem.cpp)
+- [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/EASY/src/FiveStarsReviewsProblem.java)
 
