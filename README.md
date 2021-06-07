@@ -3,11 +3,11 @@
 
  <div id="banner">
     <div class="inline-block"> 
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" width="100" height="100">
-        <img src = "https://lh3.googleusercontent.com/proxy/osOyV5NIIdEwGzs7u-M5n_1l5Z3eCD5jPeQuArvqX5Q-feigPz0mPwYO2rui0fUp72GH0kHIdlFw2237M8rqyCceACChm_JFvs-tsPrwmt3_1-p1G6YBnZGizMn4585Z7aVjj6B7dg" width="100" height="100">
-        <img src = "https://thebait.no/wp-content/uploads/2020/11/apple-logo-mac-pro-2019.jpg" width="100" height="100">
-        <img src = "https://www.pngarea.com/pngm/122/1256954_netflix-logo-png-netflix-sticker-transparent-png.png" width="100" height="100">
-        <img src = "https://www.googlewatchblog.de/wp-content/uploads/google-logo-perfekt.jpg" width="100" height="100">
+        <img src = "https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/facebook.png" width="100" height="100">
+        <img src = "https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/amazon.png" width="100" height="100">
+        <img src = "https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/Apple.jpg" width="100" height="100">
+        <img src = "https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/Netflix.png" width="100" height="100">
+        <img src = "https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/google.png" width="100" height="100">
     </div>
 </div>
  
