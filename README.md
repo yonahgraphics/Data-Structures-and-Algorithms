@@ -25,4 +25,12 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/5-stars%20reviews%20problem.py)
 - [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/5-stars%20reviews%20problem.cpp)
 - [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/EASY/src/FiveStarsReviewsProblem.java)
+## MEDIUM
+ ### Find a duplicate number in the array (Floyd's tortoise and hare) -------<b> T(n) = O(1)<b>
+ Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.<br>
+There is only one repeated number in nums, return this repeated number.<br>
+You must solve the problem without modifying the array nums and uses only constant extra space
+- [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/5-stars%20reviews%20problem.py)
+- [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/5-stars%20reviews%20problem.cpp)
+- [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/EASY/src/FiveStarsReviewsProblem.java)
 
