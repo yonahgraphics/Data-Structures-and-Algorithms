@@ -3,24 +3,33 @@
 
  <div id="banner">
     <div class="inline-block"> 
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" width="100" height="100">
-        <img src = "https://lh3.googleusercontent.com/proxy/osOyV5NIIdEwGzs7u-M5n_1l5Z3eCD5jPeQuArvqX5Q-feigPz0mPwYO2rui0fUp72GH0kHIdlFw2237M8rqyCceACChm_JFvs-tsPrwmt3_1-p1G6YBnZGizMn4585Z7aVjj6B7dg" width="100" height="100">
-        <img src = "https://thebait.no/wp-content/uploads/2020/11/apple-logo-mac-pro-2019.jpg" width="100" height="100">
-        <img src = "https://www.pngarea.com/pngm/122/1256954_netflix-logo-png-netflix-sticker-transparent-png.png" width="100" height="100">
-        <img src = "https://www.googlewatchblog.de/wp-content/uploads/google-logo-perfekt.jpg" width="100" height="100">
+        <img src = "https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/facebook.png" width="100" height="100">
+        <img src = "https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/amazon.png" width="100" height="100">
+        <img src = "https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/Apple.jpg" width="100" height="100">
+        <img src = "https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/Netflix.png" width="100" height="100">
+        <img src = "https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/google.png" width="100" height="100">
     </div>
 </div>
  
  <p>
 
 Solving coding problems everyday keeps your mind sharp, makes you a great thinker and keeps you healthy :satisfied: :satisfied: :satisfied: <p>
-In this repository you will find solutions to pupular coding problems asked by big tech companies like Facebook, Amazon Apple Netflix, Google Microsoft etc. I try to make the code as clear as possible, and the goal is be to used as a learning resource and a way to lookup problems to solve specific problems. 
+In this repository you will find solutions to pupular coding problems asked by big tech companies like Facebook, Amazon Apple Netflix, Google Microsoft etc. I try to make the code as clear as possible, and the goal is be to used as a learning resource and a way to lookup specific problems easly. 
 If have any questions or suggestions, please don't be afraid to ask. This repository is contribution friendly, so if you feel you want to contribute I'd happy to merge :blush::blush::blush:
 
 
 
 ## EASY
  ### 5-stars reviews problem  -------<b> T(n) = O(1)<b>
+ Given a number of reviews including 5-star reviews, find the minimum number of required additional 5-star reviews to reach a percentage target of five star reviews
+- [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/5-stars%20reviews%20problem.py)
+- [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/5-stars%20reviews%20problem.cpp)
+- [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/EASY/src/FiveStarsReviewsProblem.java)
+## MEDIUM
+ ### Find a duplicate number in the array (Floyd's tortoise and hare) -------<b> O(n) time and O(1) extra space<b>
+ Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.<br>
+There is only one repeated number in nums, return this repeated number.<br>
+You must solve the problem without modifying the array nums and uses only constant extra space.   Find original question on <a href = "https://leetcode.com/problems/find-the-duplicate-number/"> leetcode</a>
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/5-stars%20reviews%20problem.py)
 - [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/5-stars%20reviews%20problem.cpp)
 - [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/EASY/src/FiveStarsReviewsProblem.java)
