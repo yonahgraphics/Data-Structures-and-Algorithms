@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yonahgraphics/PycharmProjects/DATA STRUCTURES AND ALGORITHMS/CPP/MEDIUM/findDuplicateNumber.cpp
+iostream
+-
+
