@@ -30,7 +30,7 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
  Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.<br>
 There is only one repeated number in nums, return this repeated number.<br>
 You must solve the problem without modifying the array nums and uses only constant extra space.   Find original question on <a href = "https://leetcode.com/problems/find-the-duplicate-number/"> leetcode</a>
-- [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/5-stars%20reviews%20problem.py)
-- [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/5-stars%20reviews%20problem.cpp)
-- [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/EASY/src/FiveStarsReviewsProblem.java)
+- [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/MEDIUM/find_duplicate_number.py)
+- [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/MEDIUM/findDuplicateNumber.cpp)
+- [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/MEDIUM/findDuplicateNumber/src/FindDuplicateNumber.java)
 
