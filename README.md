@@ -19,7 +19,7 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 
 
 
-## EASY
+### EASY
  ### 5-stars reviews problem  -------<b> T(n) = O(1)<b>
  
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/5-stars%20reviews%20problem.py)
@@ -27,7 +27,7 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 - [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/EASY/src/FiveStarsReviewsProblem.java)
  
  
-## MEDIUM
+### MEDIUM
  ### Find a duplicate number in the array (Floyd's tortoise and hare) -------<b> O(n) time and O(1) extra space<b>
  Find original question on <a href = "https://leetcode.com/problems/find-the-duplicate-number/"> leetcode</a>
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/MEDIUM/find_duplicate_number.py)
