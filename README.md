@@ -1,4 +1,4 @@
-# Algorithms
+# INTERVIEW QUESTIONS
 ## (CODING CHALLENGES ASKED BY POPULAR COMPANIES)
 
  <div id="banner">
@@ -20,7 +20,7 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 
 
 ### EASY
- ### 5-stars reviews problem  -------<b> T(n) = O(1)<b>
+ #### 5-stars reviews problem  -------<b> T(n) = O(1)<b>
  
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/5-stars%20reviews%20problem.py)
 - [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/5-stars%20reviews%20problem.cpp)
@@ -28,9 +28,13 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
  
  
 ### MEDIUM
- ### Find a duplicate number in the array (Floyd's tortoise and hare) -------<b> O(n) time and O(1) extra space<b>
+ #### Find a duplicate number in the array (Floyd's tortoise and hare) -------<b> O(n) time and O(1) extra space<b>
  Find original question on <a href = "https://leetcode.com/problems/find-the-duplicate-number/"> leetcode</a>
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/MEDIUM/find_duplicate_number.py)
 - [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/MEDIUM/findDuplicateNumber.cpp)
 - [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/MEDIUM/findDuplicateNumber/src/FindDuplicateNumber.java)
+### HARD
+
+
+# DATA STRUCTURES
 
