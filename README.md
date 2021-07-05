@@ -32,7 +32,7 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
  Find original question on <a href = "https://leetcode.com/problems/find-the-duplicate-number/"> leetcode</a>
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/MEDIUM/find_duplicate_number.py)
 - [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/MEDIUM/findDuplicateNumber.cpp)
-### HARD<br/>
+### HARD<br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 # DATA STRUCTURES
