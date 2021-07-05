@@ -49,3 +49,9 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
  Read about binary trees <a href = "https://leetcode.com/problems/find-the-duplicate-number/"> here</a>
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/MEDIUM/find_duplicate_number.py)
 - [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/MEDIUM/findDuplicateNumber.cpp)
+ 
+ ### LINKEDLIST
+ A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers. 
+ Read about binary trees <a href = "https://www.geeksforgeeks.org/data-structures/linked-list/"> here</a>
+- [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/MEDIUM/find_duplicate_number.py)
+- [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/MEDIUM/findDuplicateNumber.cpp)
