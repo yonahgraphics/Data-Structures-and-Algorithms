@@ -47,3 +47,7 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
  Read about binary trees <a href = "https://www.geeksforgeeks.org/data-structures/linked-list/"> here</a>
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/MEDIUM/find_duplicate_number.py)
 - [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/MEDIUM/findDuplicateNumber.cpp)
+ The action of every agent <br />
+  into the world <br />
+starts <br />
+  from their physical selves. <br />
