@@ -26,7 +26,39 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 - [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/5-stars%20reviews%20problem.cpp)
 - [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/EASY/src/FiveStarsReviewsProblem.java)
  
+ #### Binary tree inorder traversal<b>
+  Find original question on <a href = "https://leetcode.com/problems/binary-tree-inorder-traversal/"> leetcode</a>
+
+- [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/Binary%20Tree%20Inorder%20Traversal.cpp)
  
+ 
+ #### First Unique Character in a string<b>
+  Find original question on <a href = "https://leetcode.com/problems/first-unique-character-in-a-string/"> leetcode</a>
+
+- [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/FirstUniqueCharacterInString.py)
+ 
+  #### Reverse String<b>
+  Given a string, can you reverse it? e.g software ---->erawtfos
+
+- [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/EASY/src/reverseString.java)
+ 
+- [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/reverseString.cpp)
+ 
+- [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/reverseString.py)
+ 
+ 
+   #### Reverse Array<b>
+  Given an array, can you reverse it? e.g [1,2,3,4] -------->[4,3,2,1]
+
+- [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/EASY/src/reverseArray.java)
+ 
+- [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/reverseArray.cpp)
+ 
+- [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/reverseArray.py)
+ 
+ 
+ 
+
 ### MEDIUM
  #### Find a duplicate number in the array (Floyd's tortoise and hare) -------<b> O(n) time and O(1) extra space<b>
  Find original question on <a href = "https://leetcode.com/problems/find-the-duplicate-number/"> leetcode</a>
