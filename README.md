@@ -71,7 +71,8 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
  ### BINARY TREE
  Popular non-linear data structure. A tree whose elements have at most 2 children is called a binary tree. Since each element in a binary tree can have only 2 children, we typically name them the left and right child.
  Read about binary trees <a href = "https://www.geeksforgeeks.org/binary-tree-data-structure/"> here</a>
-- [Cpp](hhttps://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/DATA%20STRUCTURES/BINARY%20TREE/binaryTree.cpp)
+ 
+- [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/DATA%20STRUCTURES/BINARY%20TREE/binaryTree.cpp)
  
  ### LINKEDLIST
  A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers. 
