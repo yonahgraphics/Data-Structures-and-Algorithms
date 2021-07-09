@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DATA_STRUCTURES.dir/BINARY_TREE/binaryTree.cpp.o  -o DATA_STRUCTURES 

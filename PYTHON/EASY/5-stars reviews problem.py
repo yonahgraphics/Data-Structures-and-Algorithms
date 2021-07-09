@@ -27,6 +27,7 @@ def min_reviews(num_review, num_5star_reviews, target_percentage):
         count += 1
     return count
 
+
 # -----------------------------------------------------------------
 # Complexity:
 # Since we are just doing arithmetic operation, this takes
@@ -41,7 +42,6 @@ def min_reviews(num_review, num_5star_reviews, target_percentage):
 
 # Sample call to function
 print(min_reviews(16, 10, 72))
-
 
 # APPROACH 2:  FINDING THE FORMULA FOR GETTING ADDITIONAL F-STAR REVIEWS
 # Here we simply make the required reviews the subject of the formula below and boom!
@@ -65,6 +65,7 @@ import math  # We need this import because we might get a floating point number 
 def min_reviews_better(b, a, c):
     x = (c * b - 100 * a) / (100 - c)
     return math.ceil(x)
+
 
 # -------------------------------------------------------
 # Complexity:

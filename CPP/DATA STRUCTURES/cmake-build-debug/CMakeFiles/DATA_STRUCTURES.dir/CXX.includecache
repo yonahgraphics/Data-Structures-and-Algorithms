@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yonahgraphics/PycharmProjects/DATA STRUCTURES/BINARY TREE/binaryTree.cpp
+iostream
+-
+cstring
+-
+
