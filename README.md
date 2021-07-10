@@ -28,7 +28,6 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
  
  #### Binary tree inorder traversal<b>
  
- Solving coding problems everyday 
   Find original question on <a href = "https://leetcode.com/problems/binary-tree-inorder-traversal/"> leetcode
 
 - [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/Binary%20Tree%20Inorder%20Traversal.cpp)
