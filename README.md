@@ -38,7 +38,7 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/FirstUniqueCharacterInString.py)
  
-  #### Reverse String<b>
+ #### Reverse String<b>
   Given a string, can you reverse it? e.g software ---->erawtfos
 
 - [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/EASY/src/reverseString.java)
@@ -48,7 +48,7 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/reverseString.py)
  
  
-   #### Reverse Array<b>
+ #### Reverse Array<b>
   Given an array, can you reverse it? e.g [1,2,3,4] -------->[4,3,2,1]
 
 - [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/EASY/src/reverseArray.java)
@@ -56,7 +56,6 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 - [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/reverseArray.cpp)
  
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/reverseArray.py)
- 
  
  
 
