@@ -12,7 +12,6 @@
 </div>
  
  <p>
-
 Solving coding problems everyday keeps your mind sharp, makes you a great thinker and keeps you healthy :satisfied: :satisfied: :satisfied: <p>
 In this repository you will find solutions to pupular coding problems asked by big tech companies like Facebook, Amazon Apple Netflix, Google Microsoft etc. I try to make the code as clear as possible, and the goal is be to used as a learning resource and a way to lookup specific problems easly. 
 If have any questions or suggestions, please don't be afraid to ask. This repository is contribution friendly, so if you feel you want to contribute I'd happy to merge :blush::blush::blush:
@@ -20,9 +19,7 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 
 
 ### EASY
-  <p>
 
-Solving coding problems everyday keeps your
  #### 5-stars reviews problem  -------<b> T(n) = O(1)<b>
  
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/5-stars%20reviews%20problem.py)
@@ -30,7 +27,7 @@ Solving coding problems everyday keeps your
 - [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/EASY/src/FiveStarsReviewsProblem.java)
  
  #### Binary tree inorder traversal<b>
-  Find original question on <a href = "https://leetcode.com/problems/binary-tree-inorder-traversal/"> leetcode</a>
+ <p> Find original question on <a href = "https://leetcode.com/problems/binary-tree-inorder-traversal/"> leetcode</a>
 
 - [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/Binary%20Tree%20Inorder%20Traversal.cpp)
  
