@@ -20,6 +20,9 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 
 
 ### EASY
+  <p>
+
+Solving coding problems everyday keeps your
  #### 5-stars reviews problem  -------<b> T(n) = O(1)<b>
  
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/5-stars%20reviews%20problem.py)
