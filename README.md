@@ -27,7 +27,9 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 - [Java](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/JAVA/EASY/src/FiveStarsReviewsProblem.java)
  
  #### Binary tree inorder traversal<b>
- <p> Find original question on <a href = "https://leetcode.com/problems/binary-tree-inorder-traversal/"> leetcode</a>
+ <p>
+  
+  Find original question on <a href = "https://leetcode.com/problems/binary-tree-inorder-traversal/"> leetcode</a>
 
 - [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/Binary%20Tree%20Inorder%20Traversal.cpp)
  
