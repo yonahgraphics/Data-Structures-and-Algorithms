@@ -59,13 +59,16 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
  
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/reverseArray.py)
  
- 
 
 # MEDIUM
  #### Find a duplicate number in the array (Floyd's tortoise and hare) -------<b> O(n) time and O(1) extra space<b>
  Find original question on <a href = "https://leetcode.com/problems/find-the-duplicate-number/"> leetcode</a>
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/MEDIUM/find_duplicate_number.py)
 - [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/MEDIUM/findDuplicateNumber.cpp)
+ 
+ #### Validate Binary Search Tree -------<b> O(n) time and O(n) extra space<b>
+ Find original question on <a href = "https://leetcode.com/problems/validate-binary-search-tree/"> leetcode</a>
+- [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/MEDIUM/validateBinarySearchTree.cpp)
 # HARD<br/><br/><br/><br/><br/><br/><br/><br/>
 
 
