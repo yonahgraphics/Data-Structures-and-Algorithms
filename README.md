@@ -37,7 +37,9 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
   Find original question on <a href = "https://leetcode.com/problems/first-unique-character-in-a-string/"> leetcode</a>
 
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/FirstUniqueCharacterInString.py)
+- [Cpp]( https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/firstUniqueChar.cpp)
  
+
  #### Reverse String<b>
   Given a string, can you reverse it? e.g software ---->erawtfos
 
