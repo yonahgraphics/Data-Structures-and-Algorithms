@@ -59,6 +59,24 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
  
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/reverseArray.py)
  
+ 
+  #### Shuffle String<b>
+   Find original question on <a href = "https://leetcode.com/problems/shuffle-string/"> leetcode
+
+- [Cpp](hhttps://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/shuffleString.cpp)
+ 
+- [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/shuffleString.py)
+ 
+ 
+  #### Shuffle Array<b>
+   Find original question on <a href = "https://leetcode.com/problems/shuffle-the-array/"> leetcode
+
+- [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/EASY/shuffleArray.cpp)
+ 
+- [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/shuffleArray.py)
+ 
+ 
+ 
 
 # MEDIUM
  #### Find a duplicate number in the array (Floyd's tortoise and hare) -------<b> O(n) time and O(1) extra space<b>
