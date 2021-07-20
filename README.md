@@ -76,6 +76,18 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/shuffleArray.py)
  
  
+ #### Valid Palindrome<b>
+  Find original question on <a href = "https://leetcode.com/problems/valid-palindrome/"> leetcode
+
+- [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/validPalindrome.py)
+ 
+ 
+ #### Palindrome Number<b>
+  Find original question on <a href = "https://leetcode.com/problems/palindrome-number/"> leetcode
+
+- [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/palindromeNumber.py)
+ 
+ 
  
 
 # MEDIUM
