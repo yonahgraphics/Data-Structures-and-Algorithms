@@ -88,6 +88,37 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 - [Python](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/PYTHON/EASY/palindromeNumber.py)
  
  
+ #### Valid Anagram<b>
+  Given two strings s1 and s2, check if they are valid anagrams. Two strings are anagrams if they are made of the same characters with the same frequencies
+
+## Method1<n>
+ 
+def check_anagram(s1, s2):
+    counter1 = dict()
+    counter2 = dict()
+    
+    for char in s1:
+        if char in counter1:
+            counter1[char] += 1
+        else:
+            counter1[char] = 1
+    
+    for char in s2:
+        if char in counter2:
+            counter2[char] += 1
+        else:
+            counter2[char] = 1
+        
+    if counter1 == counter2:
+        print("True")
+    else:
+        print("False")
+    
+    
+
+
+ 
+ 
  
 
 # MEDIUM
