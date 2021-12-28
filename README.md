@@ -91,12 +91,15 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
  #### Valid Anagram<b>
   Given two strings s1 and s2, check if they are valid anagrams. Two strings are anagrams if they are made of the same characters with the same frequencies
 
-### Method1<n>
+### Method 1<n>
  
 ```
 def check_anagram(s1, s2):
+    if len(s1) != len(s2):
+       return False
     counter1 = dict()
     counter2 = dict()
+    
     
     for char in s1:
         if char in counter1:
@@ -111,15 +114,28 @@ def check_anagram(s1, s2):
             counter2[char] = 1
         
     if counter1 == counter2:
-        print("True")
-    else:
-        print("False")
+        return True
+     return False
 ```
 ### Complexity <b>
  ```
- T(n) = O(n) (for traversing the first string) + O(n)(for traversing the second string) + O(n)(for comparing the strings) = O(n)
- S(n) = O(n) (for the first dictionary) + O(n) for the second dictionary  = O(n)
+ T(n) = O(n) for traversing the first string + O(n) for traversing the second string + O(n) for comparing the strings = O(n)
+ S(n) = O(n) for the first dictionary + O(n) for the second dictionary  = O(n)
  ```
+ 
+### Method 2  <b>
+ ```
+ def check_anagram(s1, s2):
+     return sorted(s1) == sorted(s2) 
+ ```
+ 
+ ### Complexity <b>
+ ```
+ T(n) = O(nlogn) for sorting the first string + O(nlogn) for sorting the second string + O(n) for comparing the sorted strings  = O(nlogn)
+ S(n) = O(n) for storing sorted string1 + O(n) for storing sorted string2  = O(n)
+ ```
+ 
+ 
 # MEDIUM
  #### Find a duplicate number in the array (Floyd's tortoise and hare) -------<b> O(n) time and O(1) extra space<b>
  Find original question on <a href = "https://leetcode.com/problems/find-the-duplicate-number/"> leetcode</a>
