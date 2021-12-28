@@ -93,6 +93,7 @@ If have any questions or suggestions, please don't be afraid to ask. This reposi
 
 ## Method1<n>
  
+ 
 def check_anagram(s1, s2):
     counter1 = dict()
     counter2 = dict()
