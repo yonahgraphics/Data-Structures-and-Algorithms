@@ -136,6 +136,29 @@ def check_anagram(s1, s2):
  ```
  
  
+ 
+ 
+  #### Shuffle an Array (Fisher-Yates Algorithm)<b>
+  Shuffle an array in linear time and constant space
+```
+# Fisher-Yates algorithm (modern version)
+# Time complexity: O(n)
+# Space complexity: O(1)
+def shuffle(arr):
+  last_index = len(arr)-1
+  while last_index > 0: #O(n)
+    rand_index = random.randint(0, last_index)#O(1)
+    temp = arr[last_index]#O(1)
+    arr[last_index] = arr[rand_index]#O(1)
+    arr[rand_index] = temp#O(1)
+    last_index -= 1#O(1)
+```
+### Complexity <b>
+ ```
+ T(n) = O(n) for traversing the entire array
+ S(n) = O(1) since we don't use any extra space
+ ```
+ 
 # MEDIUM
  #### Find a duplicate number in the array (Floyd's tortoise and hare) -------<b> O(n) time and O(1) extra space<b>
  Find original question on <a href = "https://leetcode.com/problems/find-the-duplicate-number/"> leetcode</a>
