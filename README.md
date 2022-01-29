@@ -167,26 +167,29 @@ def shuffle(arr):
  Find original question on <a href = "https://leetcode.com/problems/validate-binary-search-tree/"> leetcode</a>
 - [Cpp](https://github.com/yonahgraphics/Data-Structures-and-Algorithms/blob/master/CPP/MEDIUM/validateBinarySearchTree.cpp)
  
-  #### Merge Intervals -------<b> O(n)
+ 
+ 
+ #### Merge Intervals -------<b> 
  Given an array of intervals where intervals[i] = [starti, endi], merge all overlapping intervals, and return an array of the non-overlapping intervals that cover all the intervals in the input
  Find original question on <a href = "https://leetcode.com/problems/merge-intervals/"> leetcode</a>
-##### Example
+### Example
 Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
 Output: [[1,6],[8,10],[15,18]]
 Explanation: Since intervals [1,3] and [2,6] overlaps, merge them into [1,6].
+ 
  '''
- def merge_intervals(intervals):
-    intervals.sort(key = lambda x: (x[0], x[1]))
-    merged_intervals = []
-    merged_intervals.append(intervals[0])
-    
-    for start, end in intervals[1:]:
-        if start <= merged_intervals[-1][1]:
-            temp = max(end, merged_intervals[-1][1])
-            merged_intervals[-1][1] = temp
-        else:
-            merged_intervals.append([start, end])
-    return merged_intervals
+  def merge_intervals(intervals):
+     intervals.sort(key = lambda x: (x[0], x[1]))
+     merged_intervals = []
+     merged_intervals.append(intervals[0])
+
+     for start, end in intervals[1:]:
+         if start <= merged_intervals[-1][1]:
+             temp = max(end, merged_intervals[-1][1])
+             merged_intervals[-1][1] = temp
+         else:
+             merged_intervals.append([start, end])
+     return merged_intervals
     
  '''
  
