@@ -179,18 +179,22 @@ Explanation: Since intervals [1,3] and [2,6] overlaps, merge them into [1,6].
  
  ```
  
-     def merge_intervals(intervals):
-        intervals.sort(key = lambda x: (x[0], x[1]))
-        merged_intervals = []
-        merged_intervals.append(intervals[0])
-
-        for start, end in intervals[1:]:
-            if start <= merged_intervals[-1][1]:
-                temp = max(end, merged_intervals[-1][1])
-                merged_intervals[-1][1] = temp
-            else:
-                merged_intervals.append([start, end])
-        return merged_intervals
+  def merge_intervals(intervals):
+    intervals.sort(key = lambda x: (x[0]))
+    print("Now", intervals)
+  
+    merged_intervals = []
+    merged_intervals.append(intervals[0])
+    
+    for start, end in intervals[1:]:
+        last_end = merged_intervals[-1][1]
+        if start <= last_end:
+            new_end = max(end, last_end)
+            merged_intervals[-1][1] = new_end
+        else:
+            merged_intervals.append([start, end])
+    return merged_intervals
+    
  ```
  
  
